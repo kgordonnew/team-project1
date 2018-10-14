@@ -1,1 +1,1 @@
-# Jimmy (Minqiu Yu)'s branch for his work on the project (Specifically the Billboard Top 100 data for 2014)
+# Kimberly's branch for his work on the project 2013 and all other files for the team project
